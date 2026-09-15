@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d0e3cbc4cb4f",
+    "filename": "forest.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2000,
+    "height": 1000,
+    "bytes": 12082,
+    "takenAt": "2026-09-15T13:46:09.146Z"
+  },
+  {
+    "id": "9b60161517cf",
+    "filename": "ocean.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 11518,
+    "takenAt": "2026-09-15T13:46:09.146Z"
+  },
+  {
+    "id": "6c250a3d263c",
+    "filename": "sunset.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 11518,
+    "takenAt": "2026-09-15T13:46:09.145Z"
+  }
+]
