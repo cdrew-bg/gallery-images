@@ -1,6 +1,7 @@
 [
   {
     "id": "84b1c12f56b0",
+    "type": "photo",
     "filename": "Panama 1.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -8,10 +9,11 @@
     "height": 2422,
     "bytes": 707071,
     "takenAt": "2026-09-12T15:53:59.185Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "fbff81fbd364",
+    "type": "photo",
     "filename": "Hawaii Two Dogs.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -19,10 +21,11 @@
     "height": 2444,
     "bytes": 720109,
     "takenAt": "2026-09-12T15:53:58.073Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "72bd7191994e",
+    "type": "photo",
     "filename": "Equator in Ecuador.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -30,10 +33,11 @@
     "height": 2178,
     "bytes": 1491349,
     "takenAt": "2026-09-12T15:53:56.517Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "f2f20da0de79",
+    "type": "photo",
     "filename": "Ecuador.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -41,10 +45,11 @@
     "height": 1535,
     "bytes": 1469441,
     "takenAt": "2026-09-12T15:53:54.711Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "47dabe8001a5",
+    "type": "photo",
     "filename": "Dominica 5.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -52,10 +57,11 @@
     "height": 2428,
     "bytes": 1006645,
     "takenAt": "2026-09-12T15:53:52.845Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "6bfabf10d05c",
+    "type": "photo",
     "filename": "Dominica 4.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -63,10 +69,11 @@
     "height": 1536,
     "bytes": 1061694,
     "takenAt": "2026-09-12T15:53:51.566Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "4b807831f511",
+    "type": "photo",
     "filename": "Dominica 3.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -74,10 +81,11 @@
     "height": 1535,
     "bytes": 916824,
     "takenAt": "2026-09-12T15:53:50.256Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "4bc2dd924ed3",
+    "type": "photo",
     "filename": "Dominica 2.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -85,10 +93,23 @@
     "height": 1546,
     "bytes": 737752,
     "takenAt": "2026-09-12T15:52:13.256Z",
-    "type": "photo"
+    "album": "friends"
+  },
+  {
+    "id": "0d61b0bdb177",
+    "type": "photo",
+    "filename": "IMG_0092.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1384,
+    "bytes": 366874,
+    "takenAt": "2026-09-08T12:18:53.971Z",
+    "album": "friends"
   },
   {
     "id": "d9aad642a455",
+    "type": "photo",
     "filename": "Screenshot_20260802_171024_Chrome.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -96,21 +117,11 @@
     "height": 2048,
     "bytes": 261585,
     "takenAt": "2026-09-08T12:18:53.922Z",
-    "type": "photo"
-  },
-  {
-    "id": "0d61b0bdb177",
-    "filename": "20260816_194417.JPG",
-    "ext": "jpg",
-    "contentType": "image/jpeg",
-    "width": 2048,
-    "height": 1384,
-    "bytes": 366874,
-    "takenAt": "2026-09-08T12:18:53.906Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "d3b63e6c25bf",
+    "type": "photo",
     "filename": "Screenshot_20260802_171019_Chrome.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -118,10 +129,11 @@
     "height": 1438,
     "bytes": 266303,
     "takenAt": "2026-09-08T12:18:53.859Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "ffcf2ed27318",
+    "type": "photo",
     "filename": "Screenshot_20260802_170957_Chrome.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -129,10 +141,11 @@
     "height": 1425,
     "bytes": 240200,
     "takenAt": "2026-09-08T12:18:53.833Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "9fb3c1c2fd71",
+    "type": "photo",
     "filename": "20260816_194123.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -140,10 +153,11 @@
     "height": 1347,
     "bytes": 695900,
     "takenAt": "2026-09-08T12:18:53.819Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "190537117385",
+    "type": "photo",
     "filename": "Screenshot_20260802_171039_Chrome.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -151,10 +165,11 @@
     "height": 1080,
     "bytes": 518246,
     "takenAt": "2026-09-08T12:18:53.793Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "649984a6735e",
+    "type": "photo",
     "filename": "20260816_194025.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -162,10 +177,11 @@
     "height": 1433,
     "bytes": 666238,
     "takenAt": "2026-09-08T12:18:53.548Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "01db69d277da",
+    "type": "photo",
     "filename": "20260802_195801.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -173,10 +189,11 @@
     "height": 2047,
     "bytes": 501148,
     "takenAt": "2026-09-08T12:18:53.525Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "c632d10e96cb",
+    "type": "photo",
     "filename": "Screenshot_20260802_171053_Chrome.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -184,10 +201,11 @@
     "height": 973,
     "bytes": 327732,
     "takenAt": "2026-09-08T12:18:53.492Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "0a357c94cbf7",
+    "type": "photo",
     "filename": "Screenshot_20260802_171046_Chrome.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -195,10 +213,11 @@
     "height": 895,
     "bytes": 224083,
     "takenAt": "2026-09-08T12:18:53.460Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "fc9ac7b708a1",
+    "type": "photo",
     "filename": "20260816_194455.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -206,10 +225,11 @@
     "height": 1374,
     "bytes": 545470,
     "takenAt": "2026-09-08T12:18:53.432Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "6f1935ac2cef",
+    "type": "photo",
     "filename": "20260816_151126.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -217,10 +237,11 @@
     "height": 2047,
     "bytes": 458816,
     "takenAt": "2026-09-08T12:18:53.408Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "16b98bfe166e",
+    "type": "photo",
     "filename": "RenderedImage (13).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -228,10 +249,11 @@
     "height": 1536,
     "bytes": 1069966,
     "takenAt": "2026-09-06T22:15:34.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "80e0ac71a554",
+    "type": "photo",
     "filename": "RenderedImage (12).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -239,10 +261,11 @@
     "height": 2048,
     "bytes": 752408,
     "takenAt": "2026-09-06T22:15:21.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "8b2d1516f78a",
+    "type": "photo",
     "filename": "RenderedImage (11).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -250,10 +273,11 @@
     "height": 1536,
     "bytes": 1410198,
     "takenAt": "2026-09-06T22:15:11.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "763438613ff1",
+    "type": "photo",
     "filename": "RenderedImage (10).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -261,10 +285,11 @@
     "height": 1536,
     "bytes": 781008,
     "takenAt": "2026-09-06T22:14:52.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "d21cf9644e28",
+    "type": "photo",
     "filename": "RenderedImage (9).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -272,10 +297,11 @@
     "height": 1536,
     "bytes": 1101381,
     "takenAt": "2026-09-06T22:14:43.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "9cfdbe1baf38",
+    "type": "photo",
     "filename": "IMG_5458.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -283,10 +309,11 @@
     "height": 2048,
     "bytes": 1061050,
     "takenAt": "2026-09-06T22:14:27.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "b4a227bcde38",
+    "type": "photo",
     "filename": "RenderedImage (8).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -294,10 +321,11 @@
     "height": 2048,
     "bytes": 1085484,
     "takenAt": "2026-09-06T22:14:17.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "cefa41dd3957",
+    "type": "photo",
     "filename": "IMG_5456.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -305,10 +333,11 @@
     "height": 1536,
     "bytes": 1198205,
     "takenAt": "2026-09-06T22:14:07.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "a9c4866c64bc",
+    "type": "photo",
     "filename": "RenderedImage (7).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -316,10 +345,11 @@
     "height": 2048,
     "bytes": 1095887,
     "takenAt": "2026-09-06T22:13:11.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "5859b35666e5",
+    "type": "photo",
     "filename": "RenderedImage (6).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -327,10 +357,11 @@
     "height": 1536,
     "bytes": 1070821,
     "takenAt": "2026-09-06T22:12:47.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "b546d666ad3e",
+    "type": "photo",
     "filename": "IMG_5452.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -338,10 +369,11 @@
     "height": 2048,
     "bytes": 787746,
     "takenAt": "2026-09-06T22:12:30.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "57f02bbd011c",
+    "type": "photo",
     "filename": "IMG_5450.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -349,10 +381,11 @@
     "height": 1536,
     "bytes": 780926,
     "takenAt": "2026-09-06T22:11:56.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "f394d82b8f9f",
+    "type": "photo",
     "filename": "RenderedImage (5).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -360,10 +393,11 @@
     "height": 1536,
     "bytes": 1075970,
     "takenAt": "2026-09-06T22:11:47.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "a0fb1c3d7c88",
+    "type": "photo",
     "filename": "IMG_5448.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -371,10 +405,11 @@
     "height": 2048,
     "bytes": 1066528,
     "takenAt": "2026-09-06T22:11:33.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "05b705ff19c0",
+    "type": "photo",
     "filename": "RenderedImage (4).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -382,10 +417,11 @@
     "height": 1536,
     "bytes": 1575630,
     "takenAt": "2026-09-06T22:11:11.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "0cec04b86c26",
+    "type": "photo",
     "filename": "RenderedImage (3).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -393,10 +429,11 @@
     "height": 2048,
     "bytes": 1280167,
     "takenAt": "2026-09-06T22:10:44.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "06fdc7604870",
+    "type": "photo",
     "filename": "RenderedImage (2).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -404,10 +441,11 @@
     "height": 2048,
     "bytes": 801533,
     "takenAt": "2026-09-06T22:10:08.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "4b01da4aee2b",
+    "type": "photo",
     "filename": "RenderedImage (1).jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -415,10 +453,11 @@
     "height": 1536,
     "bytes": 1116782,
     "takenAt": "2026-09-06T22:09:45.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "89a4955ff96d",
+    "type": "photo",
     "filename": "IMG_5443.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -426,10 +465,11 @@
     "height": 2048,
     "bytes": 970054,
     "takenAt": "2026-09-06T22:09:19.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "05b3670335c6",
+    "type": "photo",
     "filename": "RenderedImage.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -437,7 +477,7 @@
     "height": 1536,
     "bytes": 835727,
     "takenAt": "2026-09-06T22:08:51.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "6efd016f09e2",
@@ -449,7 +489,8 @@
     "height": 654,
     "bytes": 1401985,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:17.000Z"
+    "takenAt": "2026-09-06T21:43:17.000Z",
+    "album": "friends"
   },
   {
     "id": "1a2f5ca349e8",
@@ -461,7 +502,8 @@
     "height": 654,
     "bytes": 1102098,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:16.000Z"
+    "takenAt": "2026-09-06T21:43:16.000Z",
+    "album": "friends"
   },
   {
     "id": "5daf06d10b5d",
@@ -473,7 +515,8 @@
     "height": 654,
     "bytes": 1102784,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:16.000Z"
+    "takenAt": "2026-09-06T21:43:16.000Z",
+    "album": "friends"
   },
   {
     "id": "bd667724113e",
@@ -485,7 +528,8 @@
     "height": 654,
     "bytes": 1088961,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:16.000Z"
+    "takenAt": "2026-09-06T21:43:16.000Z",
+    "album": "friends"
   },
   {
     "id": "b343c8a2303b",
@@ -497,7 +541,8 @@
     "height": 872,
     "bytes": 1078023,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:15.000Z"
+    "takenAt": "2026-09-06T21:43:15.000Z",
+    "album": "friends"
   },
   {
     "id": "1fd9c67acb30",
@@ -509,7 +554,8 @@
     "height": 654,
     "bytes": 1423399,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:15.000Z"
+    "takenAt": "2026-09-06T21:43:15.000Z",
+    "album": "friends"
   },
   {
     "id": "ab897c2328ac",
@@ -521,7 +567,8 @@
     "height": 654,
     "bytes": 1177997,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:14.000Z"
+    "takenAt": "2026-09-06T21:43:14.000Z",
+    "album": "friends"
   },
   {
     "id": "86657d98d4e6",
@@ -533,7 +580,8 @@
     "height": 654,
     "bytes": 1588073,
     "durationSeconds": 3,
-    "takenAt": "2026-09-06T21:43:14.000Z"
+    "takenAt": "2026-09-06T21:43:14.000Z",
+    "album": "friends"
   },
   {
     "id": "11e3f9a64015",
@@ -545,7 +593,8 @@
     "height": 654,
     "bytes": 1148356,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:14.000Z"
+    "takenAt": "2026-09-06T21:43:14.000Z",
+    "album": "friends"
   },
   {
     "id": "709358fb0002",
@@ -557,7 +606,8 @@
     "height": 654,
     "bytes": 781417,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:13.000Z"
+    "takenAt": "2026-09-06T21:43:13.000Z",
+    "album": "friends"
   },
   {
     "id": "5197e9bd1a75",
@@ -569,7 +619,8 @@
     "height": 872,
     "bytes": 1277611,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:13.000Z"
+    "takenAt": "2026-09-06T21:43:13.000Z",
+    "album": "friends"
   },
   {
     "id": "1e9a9c1af5d5",
@@ -581,7 +632,8 @@
     "height": 654,
     "bytes": 1125997,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:13.000Z"
+    "takenAt": "2026-09-06T21:43:13.000Z",
+    "album": "friends"
   },
   {
     "id": "c523b90f42a1",
@@ -593,7 +645,8 @@
     "height": 872,
     "bytes": 1134987,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:12.000Z"
+    "takenAt": "2026-09-06T21:43:12.000Z",
+    "album": "friends"
   },
   {
     "id": "16e3780c00c7",
@@ -605,7 +658,8 @@
     "height": 654,
     "bytes": 1084012,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:12.000Z"
+    "takenAt": "2026-09-06T21:43:12.000Z",
+    "album": "friends"
   },
   {
     "id": "574e7af945e3",
@@ -617,7 +671,8 @@
     "height": 654,
     "bytes": 1381228,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:11.000Z"
+    "takenAt": "2026-09-06T21:43:11.000Z",
+    "album": "friends"
   },
   {
     "id": "c0a016ada1a0",
@@ -629,7 +684,8 @@
     "height": 654,
     "bytes": 1835914,
     "durationSeconds": 3,
-    "takenAt": "2026-09-06T21:43:11.000Z"
+    "takenAt": "2026-09-06T21:43:11.000Z",
+    "album": "friends"
   },
   {
     "id": "155ff4ee993e",
@@ -641,7 +697,8 @@
     "height": 654,
     "bytes": 1250180,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:11.000Z"
+    "takenAt": "2026-09-06T21:43:11.000Z",
+    "album": "friends"
   },
   {
     "id": "d92ca7ce3106",
@@ -653,7 +710,8 @@
     "height": 872,
     "bytes": 1142641,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:10.000Z"
+    "takenAt": "2026-09-06T21:43:10.000Z",
+    "album": "friends"
   },
   {
     "id": "2804dd6a6187",
@@ -665,7 +723,8 @@
     "height": 654,
     "bytes": 1528176,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:10.000Z"
+    "takenAt": "2026-09-06T21:43:10.000Z",
+    "album": "friends"
   },
   {
     "id": "35e3a97dd6ee",
@@ -677,10 +736,50 @@
     "height": 654,
     "bytes": 1320557,
     "durationSeconds": 2,
-    "takenAt": "2026-09-06T21:43:09.000Z"
+    "takenAt": "2026-09-06T21:43:09.000Z",
+    "album": "friends"
+  },
+  {
+    "id": "96650f8a18ea",
+    "type": "photo",
+    "filename": "IMG_6075.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1206,
+    "height": 1592,
+    "bytes": 510160,
+    "takenAt": "2026-09-01T02:04:06.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ca0e7c5f0f12",
+    "type": "video",
+    "filename": "IMG_5929.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 2021687,
+    "durationSeconds": 3,
+    "takenAt": "2026-09-01T01:09:46.000Z",
+    "album": "family"
+  },
+  {
+    "id": "6fd93eec085d",
+    "type": "video",
+    "filename": "FullSizeRender (4).mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1015585,
+    "durationSeconds": 2,
+    "takenAt": "2026-09-01T01:06:30.000Z",
+    "album": "family"
   },
   {
     "id": "1b07a61f23d7",
+    "type": "photo",
     "filename": "IMG_0069.jpg",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -688,10 +787,11 @@
     "height": 2440,
     "bytes": 698631,
     "takenAt": "2026-09-01T01:04:27.168Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "ac18c13dcdd9",
+    "type": "photo",
     "filename": "IMG_0068.jpg",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -699,10 +799,11 @@
     "height": 2048,
     "bytes": 684147,
     "takenAt": "2026-09-01T01:04:27.133Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "f22ba99fa3cf",
+    "type": "photo",
     "filename": "Tish Boquette Panama 2008.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -710,10 +811,11 @@
     "height": 1537,
     "bytes": 694146,
     "takenAt": "2026-08-26T18:24:03.406Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "c90562b4ab44",
+    "type": "photo",
     "filename": "Tish & MaryLib Belize 2000.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -721,10 +823,11 @@
     "height": 766,
     "bytes": 176443,
     "takenAt": "2026-08-26T18:24:03.349Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "5010bfa56191",
+    "type": "photo",
     "filename": "Tish in Phillipines 1983 1.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -732,10 +835,11 @@
     "height": 675,
     "bytes": 226728,
     "takenAt": "2026-08-26T18:24:03.320Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "02a83d45d6b4",
+    "type": "photo",
     "filename": "St John Fire Station.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -743,10 +847,11 @@
     "height": 2048,
     "bytes": 464983,
     "takenAt": "2026-08-26T18:24:03.299Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "4de70625ea23",
+    "type": "photo",
     "filename": "St Johns 1998 w_Lib.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -754,10 +859,11 @@
     "height": 1536,
     "bytes": 649789,
     "takenAt": "2026-08-26T18:24:03.240Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "afa3d6f5395c",
+    "type": "photo",
     "filename": "Tish & Cindy Belize 2000.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -765,10 +871,11 @@
     "height": 1175,
     "bytes": 235180,
     "takenAt": "2026-08-26T18:24:03.161Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "27ad034ee1d7",
+    "type": "photo",
     "filename": "Tish's U Miami Graduation.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -776,10 +883,11 @@
     "height": 1148,
     "bytes": 180890,
     "takenAt": "2026-08-26T18:24:03.118Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "c33fdd594a52",
+    "type": "photo",
     "filename": "Tish's Mercedes 1981.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -787,10 +895,11 @@
     "height": 631,
     "bytes": 133848,
     "takenAt": "2026-08-26T18:24:03.063Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "c92a2ba67a6f",
+    "type": "photo",
     "filename": "Yucatan 2018 2.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -798,10 +907,11 @@
     "height": 1537,
     "bytes": 1301148,
     "takenAt": "2026-08-26T18:24:03.052Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "e3f3f00b3591",
+    "type": "photo",
     "filename": "Providencia 2015 4.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -809,10 +919,11 @@
     "height": 1536,
     "bytes": 914301,
     "takenAt": "2026-08-26T18:24:03.046Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "7ce3922b8df7",
+    "type": "photo",
     "filename": "Providencia 2015 3.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -820,10 +931,11 @@
     "height": 1535,
     "bytes": 1049442,
     "takenAt": "2026-08-26T18:24:03.006Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "e5350ec026b5",
+    "type": "photo",
     "filename": "Panama 3.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -831,10 +943,11 @@
     "height": 2410,
     "bytes": 1066702,
     "takenAt": "2026-08-26T18:24:02.795Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "7893280e4149",
+    "type": "photo",
     "filename": "Snorkeling 2.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -842,10 +955,11 @@
     "height": 1536,
     "bytes": 768165,
     "takenAt": "2026-08-26T18:24:02.645Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "312209fbadd2",
+    "type": "photo",
     "filename": "Sailing - st johns maybe.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -853,10 +967,11 @@
     "height": 2212,
     "bytes": 560963,
     "takenAt": "2026-08-26T18:24:02.641Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "4c4429e578e7",
+    "type": "photo",
     "filename": "Providencia 2015 1.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -864,10 +979,11 @@
     "height": 1536,
     "bytes": 1148227,
     "takenAt": "2026-08-26T18:24:02.530Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "46f37610a796",
+    "type": "photo",
     "filename": "Costa Rica 1996ish 1.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -875,10 +991,11 @@
     "height": 1536,
     "bytes": 849269,
     "takenAt": "2026-08-26T18:23:25.536Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "91cf70485bcb",
+    "type": "photo",
     "filename": "Costa Rica 1996ish Hats.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -886,10 +1003,11 @@
     "height": 1536,
     "bytes": 842090,
     "takenAt": "2026-08-26T18:23:25.481Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "e56a5ebc6dec",
+    "type": "photo",
     "filename": "Cindy's Mom.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -897,10 +1015,11 @@
     "height": 1536,
     "bytes": 507157,
     "takenAt": "2026-08-26T18:23:25.450Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "7cc0d2251a79",
+    "type": "photo",
     "filename": "Belize 1.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -908,10 +1027,11 @@
     "height": 1536,
     "bytes": 778598,
     "takenAt": "2026-08-26T18:23:25.180Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "191d6c1f3fb0",
+    "type": "photo",
     "filename": "Beach Truck.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -919,10 +1039,11 @@
     "height": 1536,
     "bytes": 720201,
     "takenAt": "2026-08-26T18:23:25.126Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "3211dd711460",
+    "type": "photo",
     "filename": "Beach Trailer 1.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -930,10 +1051,11 @@
     "height": 1536,
     "bytes": 659534,
     "takenAt": "2026-08-26T18:23:25.077Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "b939e0baa193",
+    "type": "photo",
     "filename": "Belize 2.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -941,10 +1063,11 @@
     "height": 1536,
     "bytes": 752210,
     "takenAt": "2026-08-26T18:23:25.026Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "bb329f4275d5",
+    "type": "photo",
     "filename": "Barbados Surfboard.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -952,10 +1075,11 @@
     "height": 1536,
     "bytes": 885209,
     "takenAt": "2026-08-26T18:23:25.007Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "e015335fad5b",
+    "type": "photo",
     "filename": "Barbados Mini Moke.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -963,10 +1087,11 @@
     "height": 1536,
     "bytes": 869899,
     "takenAt": "2026-08-26T18:23:24.900Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "db0cb482b7ac",
+    "type": "photo",
     "filename": "40th Reunion.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -974,10 +1099,11 @@
     "height": 960,
     "bytes": 321845,
     "takenAt": "2026-08-26T18:23:24.462Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "5da5735ad24f",
+    "type": "photo",
     "filename": "Apalach 2022.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -985,10 +1111,11 @@
     "height": 1152,
     "bytes": 646329,
     "takenAt": "2026-08-26T18:23:24.435Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "95cea15aaf27",
+    "type": "photo",
     "filename": "Baja, MX, fishing.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -996,10 +1123,11 @@
     "height": 1536,
     "bytes": 349254,
     "takenAt": "2026-08-26T18:23:24.362Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "a3d6f0757a6b",
+    "type": "photo",
     "filename": "Baja MX.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1007,10 +1135,11 @@
     "height": 1535,
     "bytes": 615435,
     "takenAt": "2026-08-26T18:23:24.338Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "23e9e6181695",
+    "type": "photo",
     "filename": "4 gals at Cindy's wedding.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1018,10 +1147,11 @@
     "height": 1536,
     "bytes": 943843,
     "takenAt": "2026-08-17T17:42:58.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "c8c64f538d04",
+    "type": "photo",
     "filename": "4 Gals at MLT's Wedding 1990.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1029,10 +1159,11 @@
     "height": 1536,
     "bytes": 920261,
     "takenAt": "2026-08-17T15:52:16.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "f9a6c5af6f7e",
+    "type": "photo",
     "filename": "Tish FL Keys 2014.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1040,10 +1171,11 @@
     "height": 1185,
     "bytes": 205907,
     "takenAt": "2026-08-16T16:41:01.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "265d30975c45",
+    "type": "photo",
     "filename": "IMG_9841.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1051,10 +1183,11 @@
     "height": 1304,
     "bytes": 581619,
     "takenAt": "2026-08-13T13:09:48.653Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "3fb1a44b61d8",
+    "type": "photo",
     "filename": "IMG_9836.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1062,10 +1195,11 @@
     "height": 1536,
     "bytes": 415655,
     "takenAt": "2026-08-13T13:09:48.609Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "c10485c2cb9c",
+    "type": "photo",
     "filename": "IMG_9840.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1073,10 +1207,11 @@
     "height": 1536,
     "bytes": 456306,
     "takenAt": "2026-08-13T13:09:48.586Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "a21eb01d801a",
+    "type": "photo",
     "filename": "IMG_9838.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1084,10 +1219,11 @@
     "height": 1536,
     "bytes": 455111,
     "takenAt": "2026-08-13T13:09:48.562Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "bcaecb53e4a2",
+    "type": "photo",
     "filename": "IMG_9835.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1095,10 +1231,11 @@
     "height": 1535,
     "bytes": 482270,
     "takenAt": "2026-08-13T13:09:48.536Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "a18ee0208757",
+    "type": "photo",
     "filename": "IMG_9839.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1106,10 +1243,11 @@
     "height": 1592,
     "bytes": 396850,
     "takenAt": "2026-08-13T13:09:48.480Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "22f0d712ac4d",
+    "type": "photo",
     "filename": "IMG_0008.jpg",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1117,10 +1255,11 @@
     "height": 989,
     "bytes": 309721,
     "takenAt": "2026-08-12T17:04:42.967Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "0cccdb3e152b",
+    "type": "photo",
     "filename": "IMG_0004.jpg",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1128,10 +1267,11 @@
     "height": 989,
     "bytes": 258466,
     "takenAt": "2026-08-12T17:04:42.938Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "41ab8d71a76e",
+    "type": "photo",
     "filename": "IMG_0006.jpg",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1139,10 +1279,11 @@
     "height": 989,
     "bytes": 428611,
     "takenAt": "2026-08-12T17:04:42.894Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "0090176e89c3",
+    "type": "photo",
     "filename": "IMG_0007.jpg",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1150,10 +1291,1448 @@
     "height": 213,
     "bytes": 10536,
     "takenAt": "2026-08-12T17:04:42.568Z",
-    "type": "photo"
+    "album": "friends"
+  },
+  {
+    "id": "3826c00c07e1",
+    "type": "photo",
+    "filename": "FullSizeRender (1).jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 707939,
+    "takenAt": "2026-08-11T00:51:26.725Z",
+    "album": "family"
+  },
+  {
+    "id": "72b55598c437",
+    "type": "video",
+    "filename": "FullSizeRender (3).mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1015585,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-11T00:51:10.000Z",
+    "album": "family"
+  },
+  {
+    "id": "2dca60861077",
+    "type": "video",
+    "filename": "FullSizeRender (1).mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1631558,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-11T00:51:09.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ec9040a7d3a5",
+    "type": "video",
+    "filename": "FullSizeRender (2).mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1716717,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-11T00:51:09.000Z",
+    "album": "family"
+  },
+  {
+    "id": "df1595469580",
+    "type": "video",
+    "filename": "IMG_4692 (1).mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 872,
+    "height": 654,
+    "bytes": 1329346,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-10T23:54:08.000Z",
+    "album": "family"
+  },
+  {
+    "id": "d9a589033091",
+    "type": "video",
+    "filename": "IMG_4693.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 872,
+    "height": 654,
+    "bytes": 1234160,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-10T23:54:08.000Z",
+    "album": "family"
+  },
+  {
+    "id": "104ba9252113",
+    "type": "video",
+    "filename": "IMG_4692.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 872,
+    "height": 654,
+    "bytes": 1329346,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-10T23:52:00.000Z",
+    "album": "family"
+  },
+  {
+    "id": "47fe3030acf9",
+    "type": "video",
+    "filename": "9B0A862A-E064-46CE-90CC-E71B6A924286.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 872,
+    "height": 654,
+    "bytes": 1791774,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-10T23:32:55.000Z",
+    "album": "family"
+  },
+  {
+    "id": "24e253a6e32e",
+    "type": "video",
+    "filename": "IMG_0445.mp4",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1044,
+    "height": 848,
+    "bytes": 1774148,
+    "durationSeconds": 5,
+    "takenAt": "2026-08-10T23:32:55.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ca5ebcc1e9d3",
+    "type": "photo",
+    "filename": "IMG_6973.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1350,
+    "height": 1800,
+    "bytes": 665405,
+    "takenAt": "2026-08-10T19:56:42.765Z",
+    "album": "family"
+  },
+  {
+    "id": "7311514caf11",
+    "type": "photo",
+    "filename": "IMG_6974.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 600,
+    "height": 800,
+    "bytes": 109165,
+    "takenAt": "2026-08-10T19:56:42.747Z",
+    "album": "family"
+  },
+  {
+    "id": "1ae66212c037",
+    "type": "photo",
+    "filename": "IMG_6972.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 800,
+    "height": 630,
+    "bytes": 201147,
+    "takenAt": "2026-08-10T19:56:42.737Z",
+    "album": "family"
+  },
+  {
+    "id": "ec7c490c4836",
+    "type": "video",
+    "filename": "IMG_3182.mp4",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 5891964,
+    "durationSeconds": 15,
+    "takenAt": "2026-08-09T21:40:03.000Z",
+    "album": "family"
+  },
+  {
+    "id": "72a6c089973a",
+    "type": "video",
+    "filename": "IMG_6935.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 1172557,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:11:51.000Z",
+    "album": "family"
+  },
+  {
+    "id": "4eb9cfe4c580",
+    "type": "video",
+    "filename": "IMG_6939.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 964,
+    "height": 720,
+    "bytes": 1341508,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:11:51.000Z",
+    "album": "family"
+  },
+  {
+    "id": "9a4a000f87da",
+    "type": "video",
+    "filename": "IMG_6934.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 1318389,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:11:50.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ae4f5707de28",
+    "type": "video",
+    "filename": "IMG_6899.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 1621902,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:04:46.000Z",
+    "album": "family"
+  },
+  {
+    "id": "83a6ad8eac6c",
+    "type": "video",
+    "filename": "IMG_6897 (1).mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1052,
+    "height": 720,
+    "bytes": 1620089,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:04:45.000Z",
+    "album": "family"
+  },
+  {
+    "id": "95963ddbb849",
+    "type": "video",
+    "filename": "IMG_6886.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 1301228,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:04:44.000Z",
+    "album": "family"
+  },
+  {
+    "id": "54ba4d2355ef",
+    "type": "video",
+    "filename": "IMG_6889.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 1526699,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:04:44.000Z",
+    "album": "family"
+  },
+  {
+    "id": "d01d7de13194",
+    "type": "video",
+    "filename": "IMG_6881.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 1175173,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:04:43.000Z",
+    "album": "family"
+  },
+  {
+    "id": "f1d422d3c6c5",
+    "type": "video",
+    "filename": "IMG_6883.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 1593553,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:04:43.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ad9db7112200",
+    "type": "video",
+    "filename": "IMG_6878.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 1325697,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:04:42.000Z",
+    "album": "family"
+  },
+  {
+    "id": "574f41b7179e",
+    "type": "video",
+    "filename": "IMG_6879.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 1561282,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:04:42.000Z",
+    "album": "family"
+  },
+  {
+    "id": "548f5e54fbaa",
+    "type": "video",
+    "filename": "IMG_6870.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 840,
+    "height": 720,
+    "bytes": 1134977,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:04:41.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ad3165d19346",
+    "type": "video",
+    "filename": "IMG_6908.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 968,
+    "height": 720,
+    "bytes": 1498565,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:03:47.000Z",
+    "album": "family"
+  },
+  {
+    "id": "c5df9f10327d",
+    "type": "video",
+    "filename": "IMG_6903.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 1495777,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:03:46.000Z",
+    "album": "family"
+  },
+  {
+    "id": "9b2896ab6514",
+    "type": "video",
+    "filename": "IMG_6905.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 1655795,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:03:46.000Z",
+    "album": "family"
+  },
+  {
+    "id": "7a028d2ef1ea",
+    "type": "video",
+    "filename": "IMG_6901.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 988,
+    "height": 720,
+    "bytes": 1583969,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:03:45.000Z",
+    "album": "family"
+  },
+  {
+    "id": "da900739d9fe",
+    "type": "video",
+    "filename": "IMG_6896.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1128,
+    "bytes": 1044893,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:03:44.000Z",
+    "album": "family"
+  },
+  {
+    "id": "df7dde5a594f",
+    "type": "video",
+    "filename": "IMG_6897.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1052,
+    "height": 720,
+    "bytes": 1605337,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:03:44.000Z",
+    "album": "family"
+  },
+  {
+    "id": "c164c5ea1993",
+    "type": "video",
+    "filename": "IMG_6885.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 1635144,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:03:43.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ef86dca3a356",
+    "type": "video",
+    "filename": "IMG_6894.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1232,
+    "bytes": 1490143,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:03:43.000Z",
+    "album": "family"
+  },
+  {
+    "id": "8593f0c7acb8",
+    "type": "video",
+    "filename": "IMG_6888.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 924,
+    "bytes": 849244,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T21:02:10.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ec127d99d681",
+    "type": "video",
+    "filename": "IMG_6872.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 960,
+    "bytes": 1594431,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:02:09.000Z",
+    "album": "family"
+  },
+  {
+    "id": "d3c1140a9fe6",
+    "type": "video",
+    "filename": "IMG_6876.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 1594780,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T21:02:09.000Z",
+    "album": "family"
+  },
+  {
+    "id": "230f96fc9375",
+    "type": "video",
+    "filename": "IMG_6931.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 1016467,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T20:59:16.000Z",
+    "album": "family"
+  },
+  {
+    "id": "2926e2d26a9c",
+    "type": "video",
+    "filename": "IMG_6927.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1028,
+    "bytes": 1227017,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T20:59:15.000Z",
+    "album": "family"
+  },
+  {
+    "id": "f44bdfddb399",
+    "type": "video",
+    "filename": "IMG_6929.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1016,
+    "bytes": 1087415,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T20:59:15.000Z",
+    "album": "family"
+  },
+  {
+    "id": "58762aa522dc",
+    "type": "video",
+    "filename": "IMG_6922.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 584,
+    "bytes": 1561460,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T20:59:14.000Z",
+    "album": "family"
+  },
+  {
+    "id": "82077bb99be1",
+    "type": "video",
+    "filename": "IMG_6923.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 544,
+    "bytes": 1096503,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-09T20:59:14.000Z",
+    "album": "family"
+  },
+  {
+    "id": "0be324e696c8",
+    "type": "video",
+    "filename": "IMG_6920.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 712,
+    "bytes": 1667577,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T20:59:13.000Z",
+    "album": "family"
+  },
+  {
+    "id": "7ca112fee815",
+    "type": "photo",
+    "filename": "IMG_6939.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2052,
+    "height": 1536,
+    "bytes": 848331,
+    "takenAt": "2026-08-09T19:26:03.000Z",
+    "album": "family"
+  },
+  {
+    "id": "33bf8fa2b00f",
+    "type": "photo",
+    "filename": "IMG_6935.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2730,
+    "bytes": 1053930,
+    "takenAt": "2026-08-09T19:25:27.000Z",
+    "album": "family"
+  },
+  {
+    "id": "1a2d3a03a7c6",
+    "type": "photo",
+    "filename": "IMG_6934.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2730,
+    "bytes": 958013,
+    "takenAt": "2026-08-09T19:25:14.000Z",
+    "album": "family"
+  },
+  {
+    "id": "8bac1ee641f0",
+    "type": "photo",
+    "filename": "IMG_6931.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2730,
+    "bytes": 926917,
+    "takenAt": "2026-08-09T19:12:21.000Z",
+    "album": "family"
+  },
+  {
+    "id": "e38502145a52",
+    "type": "photo",
+    "filename": "IMG_6929.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2162,
+    "bytes": 868549,
+    "takenAt": "2026-08-09T19:12:12.000Z",
+    "album": "family"
+  },
+  {
+    "id": "cf2eb1e0e4f9",
+    "type": "photo",
+    "filename": "IMG_6927.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2202,
+    "bytes": 1083548,
+    "takenAt": "2026-08-09T19:07:27.000Z",
+    "album": "family"
+  },
+  {
+    "id": "8b8b95a8b240",
+    "type": "photo",
+    "filename": "IMG_6926.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2222,
+    "bytes": 443982,
+    "takenAt": "2026-08-09T19:07:22.000Z",
+    "album": "family"
+  },
+  {
+    "id": "6543fe9c7f6a",
+    "type": "photo",
+    "filename": "IMG_6923.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1550,
+    "bytes": 967149,
+    "takenAt": "2026-08-09T19:05:40.000Z",
+    "album": "family"
+  },
+  {
+    "id": "938262db92e8",
+    "type": "photo",
+    "filename": "IMG_6922.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1666,
+    "bytes": 929113,
+    "takenAt": "2026-08-09T19:05:34.000Z",
+    "album": "family"
+  },
+  {
+    "id": "4ead54ef20e1",
+    "type": "photo",
+    "filename": "IMG_6920.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 2028,
+    "bytes": 1211957,
+    "takenAt": "2026-08-09T19:05:00.000Z",
+    "album": "family"
+  },
+  {
+    "id": "f4b1137038ee",
+    "type": "photo",
+    "filename": "IMG_6914.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2730,
+    "bytes": 675103,
+    "takenAt": "2026-08-09T19:00:46.000Z",
+    "album": "family"
+  },
+  {
+    "id": "51487e377701",
+    "type": "photo",
+    "filename": "IMG_6908.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2068,
+    "height": 1536,
+    "bytes": 836113,
+    "takenAt": "2026-08-09T18:57:05.000Z",
+    "album": "family"
+  },
+  {
+    "id": "fa352aaded6a",
+    "type": "photo",
+    "filename": "IMG_6905.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2732,
+    "bytes": 1131369,
+    "takenAt": "2026-08-09T18:46:09.000Z",
+    "album": "family"
+  },
+  {
+    "id": "28312b72984c",
+    "type": "photo",
+    "filename": "IMG_6903.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2732,
+    "bytes": 1046359,
+    "takenAt": "2026-08-09T18:45:41.000Z",
+    "album": "family"
+  },
+  {
+    "id": "0ddc9b802269",
+    "type": "photo",
+    "filename": "IMG_6901.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2112,
+    "height": 1536,
+    "bytes": 990195,
+    "takenAt": "2026-08-09T18:45:24.000Z",
+    "album": "family"
+  },
+  {
+    "id": "e48d3e2cb487",
+    "type": "photo",
+    "filename": "IMG_6899.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2730,
+    "height": 1536,
+    "bytes": 1199249,
+    "takenAt": "2026-08-09T18:44:59.000Z",
+    "album": "family"
+  },
+  {
+    "id": "d73fff877a33",
+    "type": "photo",
+    "filename": "IMG_6897 (1).jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2244,
+    "height": 1536,
+    "bytes": 953724,
+    "takenAt": "2026-08-09T18:44:16.000Z",
+    "album": "family"
+  },
+  {
+    "id": "bcb465169dd8",
+    "type": "photo",
+    "filename": "IMG_6896.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2406,
+    "bytes": 991705,
+    "takenAt": "2026-08-09T18:43:37.000Z",
+    "album": "family"
+  },
+  {
+    "id": "3978ac21d2fb",
+    "type": "photo",
+    "filename": "IMG_6894.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2622,
+    "bytes": 1313081,
+    "takenAt": "2026-08-09T18:43:22.000Z",
+    "album": "family"
+  },
+  {
+    "id": "157d0c010108",
+    "type": "photo",
+    "filename": "IMG_6889.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2730,
+    "height": 1536,
+    "bytes": 1045266,
+    "takenAt": "2026-08-09T18:39:25.000Z",
+    "album": "family"
+  },
+  {
+    "id": "10bec08f3d3b",
+    "type": "photo",
+    "filename": "IMG_6888.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1594,
+    "height": 2048,
+    "bytes": 785639,
+    "takenAt": "2026-08-09T18:39:13.000Z",
+    "album": "family"
+  },
+  {
+    "id": "c7da82e56f00",
+    "type": "photo",
+    "filename": "IMG_6886.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2732,
+    "height": 1536,
+    "bytes": 1067802,
+    "takenAt": "2026-08-09T18:38:55.000Z",
+    "album": "family"
+  },
+  {
+    "id": "6f1e46bb4ed3",
+    "type": "photo",
+    "filename": "IMG_6885.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2730,
+    "bytes": 957688,
+    "takenAt": "2026-08-09T18:38:45.000Z",
+    "album": "family"
+  },
+  {
+    "id": "12d8970a1041",
+    "type": "photo",
+    "filename": "IMG_6883.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2730,
+    "height": 1536,
+    "bytes": 1380678,
+    "takenAt": "2026-08-09T18:38:24.000Z",
+    "album": "family"
+  },
+  {
+    "id": "bfd38bf8f10c",
+    "type": "photo",
+    "filename": "IMG_6881.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2730,
+    "height": 1536,
+    "bytes": 1081689,
+    "takenAt": "2026-08-09T18:38:09.000Z",
+    "album": "family"
+  },
+  {
+    "id": "0f2a5faf20d2",
+    "type": "photo",
+    "filename": "IMG_6879.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2728,
+    "height": 1536,
+    "bytes": 1132410,
+    "takenAt": "2026-08-09T18:37:47.000Z",
+    "album": "family"
+  },
+  {
+    "id": "b7d9d5082eec",
+    "type": "photo",
+    "filename": "IMG_6878.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2730,
+    "bytes": 1176659,
+    "takenAt": "2026-08-09T18:37:35.000Z",
+    "album": "family"
+  },
+  {
+    "id": "e0378a844e62",
+    "type": "photo",
+    "filename": "IMG_6876.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2730,
+    "bytes": 922961,
+    "takenAt": "2026-08-09T18:37:20.000Z",
+    "album": "family"
+  },
+  {
+    "id": "5457b05d7d05",
+    "type": "photo",
+    "filename": "IMG_6872.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 713709,
+    "takenAt": "2026-08-09T18:36:57.000Z",
+    "album": "family"
+  },
+  {
+    "id": "1e6c1b88e214",
+    "type": "photo",
+    "filename": "IMG_6870.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1754,
+    "bytes": 662782,
+    "takenAt": "2026-08-09T18:36:18.000Z",
+    "album": "family"
+  },
+  {
+    "id": "c009b13e151d",
+    "type": "photo",
+    "filename": "IMG_1848.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 886286,
+    "takenAt": "2026-08-09T14:37:35.000Z",
+    "album": "family"
+  },
+  {
+    "id": "8e60428e5110",
+    "type": "photo",
+    "filename": "IMG_1847.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 698005,
+    "takenAt": "2026-08-09T14:37:07.000Z",
+    "album": "family"
+  },
+  {
+    "id": "fe4ab0a50d27",
+    "type": "photo",
+    "filename": "IMG_1846.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 782684,
+    "takenAt": "2026-08-09T14:36:53.000Z",
+    "album": "family"
+  },
+  {
+    "id": "18fef7a944f2",
+    "type": "photo",
+    "filename": "IMG_1845.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 834290,
+    "takenAt": "2026-08-09T14:36:39.000Z",
+    "album": "family"
+  },
+  {
+    "id": "746b0053904d",
+    "type": "photo",
+    "filename": "IMG_1844.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 812090,
+    "takenAt": "2026-08-09T14:36:25.000Z",
+    "album": "family"
+  },
+  {
+    "id": "a2db41391a6a",
+    "type": "photo",
+    "filename": "IMG_1843.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 1165236,
+    "takenAt": "2026-08-09T14:36:06.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ba6a5f6455c7",
+    "type": "photo",
+    "filename": "IMG_1842.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 875424,
+    "takenAt": "2026-08-09T14:35:50.000Z",
+    "album": "family"
+  },
+  {
+    "id": "c95d8094f67d",
+    "type": "photo",
+    "filename": "IMG_1841.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 943580,
+    "takenAt": "2026-08-09T14:35:29.000Z",
+    "album": "family"
+  },
+  {
+    "id": "c399729c3735",
+    "type": "photo",
+    "filename": "IMG_1840.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 889057,
+    "takenAt": "2026-08-09T14:35:13.000Z",
+    "album": "family"
+  },
+  {
+    "id": "85d78be0ccac",
+    "type": "photo",
+    "filename": "IMG_1839.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 1032322,
+    "takenAt": "2026-08-09T14:34:54.000Z",
+    "album": "family"
+  },
+  {
+    "id": "0841ca795905",
+    "type": "photo",
+    "filename": "IMG_1838.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 810178,
+    "takenAt": "2026-08-09T14:34:34.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ee693b08e1e1",
+    "type": "photo",
+    "filename": "IMG_1837.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 1049309,
+    "takenAt": "2026-08-09T14:34:23.000Z",
+    "album": "family"
+  },
+  {
+    "id": "f829a1a83e6f",
+    "type": "photo",
+    "filename": "IMG_1836.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 1214345,
+    "takenAt": "2026-08-09T14:34:01.000Z",
+    "album": "family"
+  },
+  {
+    "id": "11393317e68c",
+    "type": "photo",
+    "filename": "IMG_1835.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 1115947,
+    "takenAt": "2026-08-09T14:33:29.000Z",
+    "album": "family"
+  },
+  {
+    "id": "27e41578c070",
+    "type": "photo",
+    "filename": "IMG_1834.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 986231,
+    "takenAt": "2026-08-09T14:32:54.000Z",
+    "album": "family"
+  },
+  {
+    "id": "a37ac9081bef",
+    "type": "video",
+    "filename": "IMG_1848.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1687658,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:43.000Z",
+    "album": "family"
+  },
+  {
+    "id": "a20016676ee3",
+    "type": "video",
+    "filename": "IMG_1845.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1806516,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:42.000Z",
+    "album": "family"
+  },
+  {
+    "id": "833c8a36b733",
+    "type": "video",
+    "filename": "IMG_1846.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1783555,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:42.000Z",
+    "album": "family"
+  },
+  {
+    "id": "08d6c186664d",
+    "type": "video",
+    "filename": "IMG_1847.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1400298,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:42.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ece8f5a9556d",
+    "type": "video",
+    "filename": "IMG_1843.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1762893,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:41.000Z",
+    "album": "family"
+  },
+  {
+    "id": "8f65ebdaf0d8",
+    "type": "video",
+    "filename": "IMG_1844.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1471218,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:41.000Z",
+    "album": "family"
+  },
+  {
+    "id": "16c4903b748b",
+    "type": "video",
+    "filename": "IMG_1841.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1802819,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:40.000Z",
+    "album": "family"
+  },
+  {
+    "id": "2aae807ae4fd",
+    "type": "video",
+    "filename": "IMG_1842.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1853013,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:40.000Z",
+    "album": "family"
+  },
+  {
+    "id": "064f96d193bb",
+    "type": "video",
+    "filename": "IMG_1838.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1657632,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:39.000Z",
+    "album": "family"
+  },
+  {
+    "id": "0b0b0544b6e4",
+    "type": "video",
+    "filename": "IMG_1839.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1678450,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:39.000Z",
+    "album": "family"
+  },
+  {
+    "id": "fd390290c7b3",
+    "type": "video",
+    "filename": "IMG_1840.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1885365,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:39.000Z",
+    "album": "family"
+  },
+  {
+    "id": "5d357143e3e7",
+    "type": "video",
+    "filename": "IMG_1836.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1706679,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:38.000Z",
+    "album": "family"
+  },
+  {
+    "id": "8c95a6a9246c",
+    "type": "video",
+    "filename": "IMG_1837.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1691090,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:38.000Z",
+    "album": "family"
+  },
+  {
+    "id": "2f6da55e6fa6",
+    "type": "video",
+    "filename": "IMG_1834.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1701998,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:37.000Z",
+    "album": "family"
+  },
+  {
+    "id": "2cac4484bc06",
+    "type": "video",
+    "filename": "IMG_1835.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1912477,
+    "durationSeconds": 3,
+    "takenAt": "2026-08-09T13:42:37.000Z",
+    "album": "family"
+  },
+  {
+    "id": "c1b8a1be0e91",
+    "type": "photo",
+    "filename": "IMG_4946_Original.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 544987,
+    "takenAt": "2026-08-08T01:47:10.813Z",
+    "album": "family"
+  },
+  {
+    "id": "875af849c2b2",
+    "type": "photo",
+    "filename": "9100764710590982265.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 590745,
+    "takenAt": "2026-08-07T23:31:50.885Z",
+    "album": "family"
+  },
+  {
+    "id": "033494f3243a",
+    "type": "photo",
+    "filename": "IMG_20260325_112003.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1365,
+    "bytes": 395514,
+    "takenAt": "2026-08-07T23:31:50.771Z",
+    "album": "family"
+  },
+  {
+    "id": "ea3a2de094fb",
+    "type": "photo",
+    "filename": "20220913_114157.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 521954,
+    "takenAt": "2026-08-07T23:31:50.747Z",
+    "album": "family"
+  },
+  {
+    "id": "22ee631ba2d4",
+    "type": "photo",
+    "filename": "20220913_114031.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 909929,
+    "takenAt": "2026-08-07T23:31:50.743Z",
+    "album": "family"
+  },
+  {
+    "id": "f0f8b95e0c97",
+    "type": "photo",
+    "filename": "20220915_150348.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 833010,
+    "takenAt": "2026-08-07T23:31:50.738Z",
+    "album": "family"
+  },
+  {
+    "id": "41a643ef5677",
+    "type": "photo",
+    "filename": "4726842749135942693.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 570004,
+    "takenAt": "2026-08-07T23:31:50.731Z",
+    "album": "family"
+  },
+  {
+    "id": "21eee3fb8711",
+    "type": "photo",
+    "filename": "IMG_3397.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 690445,
+    "takenAt": "2026-08-07T23:31:50.371Z",
+    "album": "family"
+  },
+  {
+    "id": "670878d24e11",
+    "type": "video",
+    "filename": "IMG_2993.mov",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 654,
+    "height": 872,
+    "bytes": 1387998,
+    "durationSeconds": 2,
+    "takenAt": "2026-08-07T22:37:07.000Z",
+    "album": "family"
+  },
+  {
+    "id": "5591c1dd9bbf",
+    "type": "video",
+    "filename": "IMG_5653.mp4",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 720,
+    "height": 1280,
+    "bytes": 4832378,
+    "durationSeconds": 12,
+    "takenAt": "2026-08-07T21:34:37.000Z",
+    "album": "family"
+  },
+  {
+    "id": "57fd7b277052",
+    "type": "video",
+    "filename": "A96492FA-E93E-47D3-B333-C4F9AF66E93D.mp4",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 12003489,
+    "durationSeconds": 30,
+    "takenAt": "2026-08-07T21:34:31.000Z",
+    "album": "family"
+  },
+  {
+    "id": "23594cab1303",
+    "type": "photo",
+    "filename": "IMG_2438.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1440,
+    "height": 1800,
+    "bytes": 595383,
+    "takenAt": "2026-08-07T21:32:21.515Z",
+    "album": "family"
+  },
+  {
+    "id": "5e82321ac77f",
+    "type": "video",
+    "filename": "IMG_3404.mp4",
+    "ext": "mp4",
+    "contentType": "video/mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 10466610,
+    "durationSeconds": 27,
+    "takenAt": "2026-08-07T21:26:45.000Z",
+    "album": "family"
   },
   {
     "id": "87f2a2c77e84",
+    "type": "photo",
     "filename": "IMG_9702.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1161,10 +2740,227 @@
     "height": 548,
     "bytes": 45452,
     "takenAt": "2026-08-02T15:20:38.000Z",
-    "type": "photo"
+    "album": "friends"
+  },
+  {
+    "id": "d709d9dc94bd",
+    "type": "photo",
+    "filename": "IMG_7428.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1206,
+    "height": 2622,
+    "bytes": 216612,
+    "takenAt": "2026-08-02T01:44:23.000Z",
+    "album": "family"
+  },
+  {
+    "id": "09d1056c3cda",
+    "type": "photo",
+    "filename": "IMG_7264.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 889507,
+    "takenAt": "2026-07-28T21:28:26.000Z",
+    "album": "family"
+  },
+  {
+    "id": "142f23da3d14",
+    "type": "photo",
+    "filename": "IMG_7263.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 935330,
+    "takenAt": "2026-07-28T21:28:25.000Z",
+    "album": "family"
+  },
+  {
+    "id": "0dbe4c28e160",
+    "type": "photo",
+    "filename": "IMG_7262.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 994006,
+    "takenAt": "2026-07-28T21:28:21.000Z",
+    "album": "family"
+  },
+  {
+    "id": "e647e0687e27",
+    "type": "photo",
+    "filename": "IMG_5650.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 629339,
+    "takenAt": "2026-06-26T22:57:13.000Z",
+    "album": "family"
+  },
+  {
+    "id": "bb84603badff",
+    "type": "photo",
+    "filename": "IMG_5649.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 622669,
+    "takenAt": "2026-06-26T22:57:08.000Z",
+    "album": "family"
+  },
+  {
+    "id": "e0f9a51cd554",
+    "type": "photo",
+    "filename": "IMG_4693.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 1078290,
+    "takenAt": "2026-05-11T00:23:03.000Z",
+    "album": "family"
+  },
+  {
+    "id": "c35d9787a476",
+    "type": "photo",
+    "filename": "IMG_4692 (1).jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 1098923,
+    "takenAt": "2026-05-11T00:17:05.000Z",
+    "album": "family"
+  },
+  {
+    "id": "1091e675926f",
+    "type": "photo",
+    "filename": "IMG_5219.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1639,
+    "height": 2048,
+    "bytes": 672183,
+    "takenAt": "2026-05-09T23:44:54.000Z",
+    "album": "family"
+  },
+  {
+    "id": "3c8f26d5afcb",
+    "type": "photo",
+    "filename": "IMG_5221.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2398,
+    "height": 1536,
+    "bytes": 2227819,
+    "takenAt": "2026-05-08T22:47:13.000Z",
+    "album": "family"
+  },
+  {
+    "id": "6374f6b76f27",
+    "type": "photo",
+    "filename": "IMG_5214.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2456,
+    "height": 1535,
+    "bytes": 2607989,
+    "takenAt": "2026-05-08T22:46:42.000Z",
+    "album": "family"
+  },
+  {
+    "id": "bc90f824e991",
+    "type": "photo",
+    "filename": "IMG_5213.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2456,
+    "height": 1536,
+    "bytes": 1405394,
+    "takenAt": "2026-05-08T22:46:40.000Z",
+    "album": "family"
+  },
+  {
+    "id": "065988bece07",
+    "type": "photo",
+    "filename": "IMG_3010.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 786551,
+    "takenAt": "2026-04-20T13:12:21.000Z",
+    "album": "family"
+  },
+  {
+    "id": "6e7ce718ee6e",
+    "type": "photo",
+    "filename": "90818E19-5C77-4581-9610-92D8AE3F7A72.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 2026,
+    "bytes": 1177446,
+    "takenAt": "2026-04-20T13:10:56.000Z",
+    "album": "family"
+  },
+  {
+    "id": "c07d2ca7cc66",
+    "type": "photo",
+    "filename": "IMG_2993.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 828634,
+    "takenAt": "2026-04-20T12:31:39.000Z",
+    "album": "family"
+  },
+  {
+    "id": "b62fd8d81e26",
+    "type": "photo",
+    "filename": "IMG_0039.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 933303,
+    "takenAt": "2026-03-07T17:33:49.000Z",
+    "album": "family"
+  },
+  {
+    "id": "f1dc91cd119c",
+    "type": "photo",
+    "filename": "IMG_1006.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 2048,
+    "bytes": 830939,
+    "takenAt": "2026-03-07T17:33:41.000Z",
+    "album": "family"
+  },
+  {
+    "id": "15cdc8a36cf1",
+    "type": "photo",
+    "filename": "IMG_6162.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 991460,
+    "takenAt": "2025-11-27T01:46:57.000Z",
+    "album": "family"
   },
   {
     "id": "cbd18e7922a2",
+    "type": "photo",
     "filename": "Beach Drive.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1172,10 +2968,167 @@
     "height": 1536,
     "bytes": 1079597,
     "takenAt": "2025-11-01T21:33:16.000Z",
-    "type": "photo"
+    "album": "friends"
+  },
+  {
+    "id": "de26cc813b95",
+    "type": "photo",
+    "filename": "IMG_2043.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 704028,
+    "takenAt": "2025-08-28T00:35:58.000Z",
+    "album": "family"
+  },
+  {
+    "id": "4db3391176bf",
+    "type": "photo",
+    "filename": "IMG_2044.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 992714,
+    "takenAt": "2025-08-28T00:35:58.000Z",
+    "album": "family"
+  },
+  {
+    "id": "fbeb3d64966b",
+    "type": "photo",
+    "filename": "IMG_2042.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 676869,
+    "takenAt": "2025-08-28T00:35:57.000Z",
+    "album": "family"
+  },
+  {
+    "id": "f5492081ad2f",
+    "type": "photo",
+    "filename": "IMG_2041.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 687470,
+    "takenAt": "2025-08-28T00:35:56.000Z",
+    "album": "family"
+  },
+  {
+    "id": "f25adc44f70e",
+    "type": "photo",
+    "filename": "IMG_0115.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 999016,
+    "takenAt": "2025-08-28T00:33:55.000Z",
+    "album": "family"
+  },
+  {
+    "id": "35a9e5c0ef37",
+    "type": "photo",
+    "filename": "IMG_7340.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 955837,
+    "takenAt": "2025-04-09T01:47:30.000Z",
+    "album": "family"
+  },
+  {
+    "id": "67cd7299ace5",
+    "type": "photo",
+    "filename": "IMG_4609.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 973793,
+    "takenAt": "2025-04-09T01:47:24.000Z",
+    "album": "family"
+  },
+  {
+    "id": "9d76ec460e69",
+    "type": "photo",
+    "filename": "IMG_4608.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 968018,
+    "takenAt": "2025-04-09T01:47:23.000Z",
+    "album": "family"
+  },
+  {
+    "id": "178548d9bb3a",
+    "type": "photo",
+    "filename": "IMG_4607.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 948767,
+    "takenAt": "2025-04-09T01:47:17.000Z",
+    "album": "family"
+  },
+  {
+    "id": "cc5ab441369a",
+    "type": "photo",
+    "filename": "IMG_5089.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 1182966,
+    "takenAt": "2025-04-08T19:18:50.000Z",
+    "album": "family"
+  },
+  {
+    "id": "6e520337da9b",
+    "type": "photo",
+    "filename": "IMG_2139.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 601831,
+    "takenAt": "2025-04-08T15:54:17.000Z",
+    "album": "family"
+  },
+  {
+    "id": "4ea8db5313e2",
+    "type": "photo",
+    "filename": "IMG_2135.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 698778,
+    "takenAt": "2025-04-08T15:53:52.000Z",
+    "album": "family"
+  },
+  {
+    "id": "3d2de7adc2da",
+    "type": "photo",
+    "filename": "IMG_2134.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 691677,
+    "takenAt": "2025-04-08T15:53:51.000Z",
+    "album": "family"
   },
   {
     "id": "8cf9fa54e7d5",
+    "type": "photo",
     "filename": "Bariloche Tarts in Chairs.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1183,10 +3136,11 @@
     "height": 1536,
     "bytes": 1759281,
     "takenAt": "2025-03-21T17:34:53.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "9b00abe94d0b",
+    "type": "photo",
     "filename": "Iguazu Falls Argentina 2025.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1194,10 +3148,11 @@
     "height": 1536,
     "bytes": 1109709,
     "takenAt": "2025-03-19T16:20:18.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "2500c5960b03",
+    "type": "photo",
     "filename": "Juveniles - Argentina Bookstore.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1205,10 +3160,11 @@
     "height": 2048,
     "bytes": 1144291,
     "takenAt": "2025-03-15T17:22:29.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "a4b64acd92de",
+    "type": "photo",
     "filename": "Family Thanksgiving.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1216,10 +3172,59 @@
     "height": 469,
     "bytes": 177341,
     "takenAt": "2024-11-23T22:12:36.000Z",
-    "type": "photo"
+    "album": "friends"
+  },
+  {
+    "id": "0c346d452b27",
+    "type": "photo",
+    "filename": "FullSizeRender.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 753335,
+    "takenAt": "2024-08-28T16:25:49.000Z",
+    "album": "family"
+  },
+  {
+    "id": "d4ed3ba10c78",
+    "type": "photo",
+    "filename": "FullSizeRender (3).jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 769643,
+    "takenAt": "2024-03-28T23:49:53.000Z",
+    "album": "family"
+  },
+  {
+    "id": "aab1facd1d0a",
+    "type": "photo",
+    "filename": "FullSizeRender (2).jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 704151,
+    "takenAt": "2024-03-28T23:49:38.000Z",
+    "album": "family"
+  },
+  {
+    "id": "13e205690210",
+    "type": "photo",
+    "filename": "IMG_5929.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 858795,
+    "takenAt": "2024-03-28T18:24:22.000Z",
+    "album": "family"
   },
   {
     "id": "d80c8b0b8291",
+    "type": "photo",
     "filename": "Safari.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1227,10 +3232,11 @@
     "height": 1536,
     "bytes": 1790320,
     "takenAt": "2023-12-08T00:14:47.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "49718afd638f",
+    "type": "photo",
     "filename": "On the jeep with guide S Africa 2023.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1238,10 +3244,11 @@
     "height": 1536,
     "bytes": 1764070,
     "takenAt": "2023-11-28T14:29:31.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "26fdd84274f4",
+    "type": "photo",
     "filename": "Morning Drive cropped.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1249,10 +3256,59 @@
     "height": 1930,
     "bytes": 1034933,
     "takenAt": "2023-11-25T20:47:58.000Z",
-    "type": "photo"
+    "album": "friends"
+  },
+  {
+    "id": "278946ac8d6b",
+    "type": "photo",
+    "filename": "IMG_8157.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 1296372,
+    "takenAt": "2023-09-03T01:39:39.000Z",
+    "album": "family"
+  },
+  {
+    "id": "3628a38b9157",
+    "type": "photo",
+    "filename": "F85A961E-6260-4034-8247-004EBC4AE32A.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 3312,
+    "height": 1285,
+    "bytes": 1224423,
+    "takenAt": "2023-09-02T00:25:36.000Z",
+    "album": "family"
+  },
+  {
+    "id": "feaaa7d49720",
+    "type": "photo",
+    "filename": "IMG_0557.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 1201716,
+    "takenAt": "2023-09-02T00:25:35.000Z",
+    "album": "family"
+  },
+  {
+    "id": "d9cd195157b3",
+    "type": "photo",
+    "filename": "9B0A862A-E064-46CE-90CC-E71B6A924286.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 1047906,
+    "takenAt": "2023-09-02T00:25:33.000Z",
+    "album": "family"
   },
   {
     "id": "6e212fb10b7c",
+    "type": "photo",
     "filename": "History Class.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1260,10 +3316,11 @@
     "height": 1733,
     "bytes": 408803,
     "takenAt": "2023-08-06T00:48:24.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "47ecc6167d55",
+    "type": "photo",
     "filename": "Redwoods.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1271,10 +3328,11 @@
     "height": 2048,
     "bytes": 1413014,
     "takenAt": "2022-09-14T20:43:54.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "12204c8157bb",
+    "type": "photo",
     "filename": "Tish with cat Santa Cruz 2022.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1282,10 +3340,11 @@
     "height": 2048,
     "bytes": 1092791,
     "takenAt": "2022-09-13T16:36:08.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "5956241a742a",
+    "type": "photo",
     "filename": "Tish Santa Cruz 2022.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1293,10 +3352,11 @@
     "height": 1280,
     "bytes": 476737,
     "takenAt": "2022-09-09T22:54:08.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "b09831439ee1",
+    "type": "photo",
     "filename": "Tish & Cindy Santa Cruz 2022.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1304,10 +3364,83 @@
     "height": 1536,
     "bytes": 907908,
     "takenAt": "2022-09-09T20:50:58.000Z",
-    "type": "photo"
+    "album": "friends"
+  },
+  {
+    "id": "a9bf123e408a",
+    "type": "photo",
+    "filename": "IMG_8351.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 759188,
+    "takenAt": "2022-09-04T00:12:33.000Z",
+    "album": "family"
+  },
+  {
+    "id": "4a0bc0c672be",
+    "type": "photo",
+    "filename": "IMG_8458.jpg",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 942911,
+    "takenAt": "2020-08-31T21:12:19.000Z",
+    "album": "family"
+  },
+  {
+    "id": "8b4651a6a7ce",
+    "type": "photo",
+    "filename": "IMG_8448.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 689353,
+    "takenAt": "2020-08-31T20:53:09.000Z",
+    "album": "family"
+  },
+  {
+    "id": "6709f6f3b13e",
+    "type": "photo",
+    "filename": "IMG_8443.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 580298,
+    "takenAt": "2020-08-31T20:51:38.000Z",
+    "album": "family"
+  },
+  {
+    "id": "a52d885474c9",
+    "type": "photo",
+    "filename": "IMG_8439.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 566479,
+    "takenAt": "2020-08-31T20:51:16.000Z",
+    "album": "family"
+  },
+  {
+    "id": "76f6125e73a8",
+    "type": "photo",
+    "filename": "IMG_3491.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1599,
+    "bytes": 920851,
+    "takenAt": "2019-08-03T14:47:48.000Z",
+    "album": "family"
   },
   {
     "id": "085f77e6810d",
+    "type": "photo",
     "filename": "IMG_0003.jpg",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1315,10 +3448,11 @@
     "height": 989,
     "bytes": 124841,
     "takenAt": "2019-04-07T01:10:41.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "efd3f0d1f954",
+    "type": "photo",
     "filename": "IMG_0005.jpg",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1326,10 +3460,11 @@
     "height": 989,
     "bytes": 390818,
     "takenAt": "2019-04-06T23:48:40.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "e345f1ad2b00",
+    "type": "photo",
     "filename": "DSCN0106.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1337,10 +3472,11 @@
     "height": 1536,
     "bytes": 587283,
     "takenAt": "2018-07-13T07:14:24.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "dff7906869e7",
+    "type": "photo",
     "filename": "DSCN0105.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1348,10 +3484,11 @@
     "height": 1536,
     "bytes": 583156,
     "takenAt": "2018-07-13T06:51:36.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "7f503ad10e47",
+    "type": "photo",
     "filename": "IMG_0091.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1359,10 +3496,11 @@
     "height": 2048,
     "bytes": 891282,
     "takenAt": "2018-07-13T04:16:06.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "13a11aa1b7d7",
+    "type": "photo",
     "filename": "DSCN0068.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1370,10 +3508,11 @@
     "height": 1536,
     "bytes": 1197693,
     "takenAt": "2018-07-11T09:32:13.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "b157c350138e",
+    "type": "photo",
     "filename": "DSCN0024.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1381,10 +3520,11 @@
     "height": 1536,
     "bytes": 693244,
     "takenAt": "2018-07-08T08:55:22.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "584de3e1f2c9",
+    "type": "photo",
     "filename": "IMG_0002.jpg",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1392,10 +3532,23 @@
     "height": 989,
     "bytes": 285391,
     "takenAt": "2018-05-09T01:30:12.000Z",
-    "type": "photo"
+    "album": "friends"
+  },
+  {
+    "id": "c47f7962b737",
+    "type": "photo",
+    "filename": "IMG_0482.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 775497,
+    "takenAt": "2017-04-06T23:58:55.000Z",
+    "album": "family"
   },
   {
     "id": "ef208ad2743a",
+    "type": "photo",
     "filename": "IMG_0090.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1403,10 +3556,71 @@
     "height": 1536,
     "bytes": 874405,
     "takenAt": "2017-02-20T00:33:07.000Z",
-    "type": "photo"
+    "album": "friends"
+  },
+  {
+    "id": "ab84e334f5bf",
+    "type": "photo",
+    "filename": "IMG_7329.jpeg",
+    "ext": "jpeg",
+    "contentType": "image/jpeg",
+    "width": 1536,
+    "height": 2048,
+    "bytes": 727245,
+    "takenAt": "2016-05-08T02:52:07.000Z",
+    "album": "family"
+  },
+  {
+    "id": "55cc8b34c87d",
+    "type": "photo",
+    "filename": "P2150164.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 786016,
+    "takenAt": "2016-02-15T23:32:28.000Z",
+    "album": "family"
+  },
+  {
+    "id": "96db53f14a10",
+    "type": "photo",
+    "filename": "P2150163.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 734704,
+    "takenAt": "2016-02-15T23:32:05.000Z",
+    "album": "family"
+  },
+  {
+    "id": "ec4f6cef4183",
+    "type": "photo",
+    "filename": "P2150162.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 736505,
+    "takenAt": "2016-02-15T23:31:55.000Z",
+    "album": "family"
+  },
+  {
+    "id": "976941bc5b55",
+    "type": "photo",
+    "filename": "P2150161.JPG",
+    "ext": "jpg",
+    "contentType": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 772073,
+    "takenAt": "2016-02-15T23:31:48.000Z",
+    "album": "family"
   },
   {
     "id": "6c9cbcd90d65",
+    "type": "photo",
     "filename": "IMG_0110.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1414,10 +3628,11 @@
     "height": 2048,
     "bytes": 779815,
     "takenAt": "2015-06-23T21:30:38.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "1e38bcbc3ffe",
+    "type": "photo",
     "filename": "IMG_0109.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1425,10 +3640,11 @@
     "height": 1536,
     "bytes": 889781,
     "takenAt": "2015-06-21T14:06:12.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "5bf33c521301",
+    "type": "photo",
     "filename": "IMG_0108.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1436,10 +3652,11 @@
     "height": 1536,
     "bytes": 585076,
     "takenAt": "2015-06-19T19:43:42.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "059e18742894",
+    "type": "photo",
     "filename": "IMG_0106.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1447,10 +3664,11 @@
     "height": 1536,
     "bytes": 429326,
     "takenAt": "2015-06-19T19:42:54.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "ec64bba7dc24",
+    "type": "photo",
     "filename": "IMG_0105.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1458,10 +3676,11 @@
     "height": 1536,
     "bytes": 879287,
     "takenAt": "2015-06-17T17:32:06.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "1ae684e58f6f",
+    "type": "photo",
     "filename": "IMG_0107.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1469,10 +3688,11 @@
     "height": 1536,
     "bytes": 1335128,
     "takenAt": "2013-11-03T11:59:34.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "4f58493f398d",
+    "type": "photo",
     "filename": "IMG_0120.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1480,10 +3700,11 @@
     "height": 1536,
     "bytes": 835857,
     "takenAt": "2012-07-01T18:45:25.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "a533f5ebc4a9",
+    "type": "photo",
     "filename": "IMG_0119.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1491,10 +3712,11 @@
     "height": 1536,
     "bytes": 672446,
     "takenAt": "2012-07-01T14:50:59.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "5ed2d39c8061",
+    "type": "photo",
     "filename": "IMG_0118.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1502,10 +3724,11 @@
     "height": 1536,
     "bytes": 628244,
     "takenAt": "2012-06-29T15:46:56.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "e7073d729761",
+    "type": "photo",
     "filename": "IMG_0117.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1513,10 +3736,11 @@
     "height": 1536,
     "bytes": 638832,
     "takenAt": "2012-06-28T20:07:43.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "d4a46da4a2a5",
+    "type": "photo",
     "filename": "IMG_0116.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1524,10 +3748,11 @@
     "height": 2048,
     "bytes": 574489,
     "takenAt": "2012-06-28T19:58:51.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "29a0eec18432",
+    "type": "photo",
     "filename": "IMG_0114.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1535,10 +3760,11 @@
     "height": 2048,
     "bytes": 600153,
     "takenAt": "2012-06-28T19:57:55.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "63677ca37cd2",
+    "type": "photo",
     "filename": "IMG_0113.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1546,10 +3772,11 @@
     "height": 1536,
     "bytes": 863533,
     "takenAt": "2012-06-28T14:20:06.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "1a8cbfdf4d73",
+    "type": "photo",
     "filename": "IMG_0115.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1557,10 +3784,11 @@
     "height": 1536,
     "bytes": 1427259,
     "takenAt": "2012-06-27T19:56:16.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "102fe87d63e8",
+    "type": "photo",
     "filename": "IMG_0112.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1568,10 +3796,11 @@
     "height": 1536,
     "bytes": 762177,
     "takenAt": "2012-06-27T15:38:31.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "cc16fceb763c",
+    "type": "photo",
     "filename": "IMG_0111.JPG",
     "ext": "jpg",
     "contentType": "image/jpeg",
@@ -1579,10 +3808,11 @@
     "height": 1536,
     "bytes": 714296,
     "takenAt": "2012-06-24T18:05:59.000Z",
-    "type": "photo"
+    "album": "friends"
   },
   {
     "id": "e310ec36c7f6",
+    "type": "photo",
     "filename": "Hawaii Seven Pools.jpeg",
     "ext": "jpeg",
     "contentType": "image/jpeg",
@@ -1590,6 +3820,6 @@
     "height": 1168,
     "bytes": 826112,
     "takenAt": "2002-06-02T23:29:59.000Z",
-    "type": "photo"
+    "album": "friends"
   }
 ]
